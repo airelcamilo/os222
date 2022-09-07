@@ -1,8 +1,7 @@
 ---
 permalink: LINKS/
-page: Airel Camilo Khairan
 ---
-<span style="color:blue; font-weight:bold; font-size:larger;">By {{ page.author }}</span>
+<span style="color:blue; font-weight:bold; font-size:larger;">By Airel Camilo Khairan</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
