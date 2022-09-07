@@ -5,10 +5,7 @@ permalink: LINKS/
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[LOG](https://airelcamilo.github.io/os222/TXT/mylog.txt) ---
 <br>
 <hr>
 
