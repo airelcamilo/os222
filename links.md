@@ -18,5 +18,5 @@ I like this introductory video to Vim because the presenter explains all the bas
 This website contains a well organised way of learning AWK commands. It has an example and explanation of how the given command works.
 
 <hr>
-© {{ site.copyright }} --- {{ site.author }}
+© 2022 --- Airel Camilo Khairan
 <hr>
