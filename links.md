@@ -16,3 +16,7 @@ I like this introductory video to Vim because the presenter explains all the bas
 
 2. [(Website) Awk Tutorial](https://www.tutorialspoint.com/awk/index.htm)<br>
 This website contains a well organised way of learning AWK commands. It has an example and explanation of how the given command works.
+
+<hr>
+© {{ site.copyright }} --- {{ site.author }}
+<hr>
