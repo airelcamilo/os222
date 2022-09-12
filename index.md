@@ -6,5 +6,5 @@
 <br>
 
 <hr>
-© {{ site.copyright }} --- {{ site.author }}
+© 2022 --- Airel Camilo Khairan
 <hr>
