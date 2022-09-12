@@ -2,7 +2,7 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG](https://airelcamilo.github.io/os222/TXT/mylog.txt) ---
+[LOG](https://airelcamilo.github.io/os222/TXT/mylog.txt)
 <br>
 
 <hr>
