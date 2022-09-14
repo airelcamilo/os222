@@ -18,5 +18,12 @@ I like this introductory video to Vim because the presenter explains all the bas
 This website contains a well organised way of learning AWK commands. It has an example and explanation of how the given command works.
 
 <hr>
+
+# WEEK 02
+
+1. [(Website) What Is a Checksum (and Why Should You Care)?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)
+This website offers basic understanding of what is checksum and what does it do, so it helps me (and hopefully you too) to have a better grasp of what is file SHA256SUM.
+
+<hr>
 © 2022 --- Airel Camilo Khairan
 <hr>
