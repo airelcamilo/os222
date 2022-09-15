@@ -2,7 +2,9 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG](https://airelcamilo.github.io/os222/TXT/mylog.txt)
+[LOG](https://airelcamilo.github.io/os222/TXT/mylog.txt) ---
+[UPDATE](https://airelcamilo.github.io/os222/TXT/myupdate.txt) ---
+[RANK](https://airelcamilo.github.io/os222/TXT/myrank.txt)
 <br>
 
 <hr>
