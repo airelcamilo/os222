@@ -24,6 +24,9 @@ This website contains a well organised way of learning AWK commands. It has an e
 1. [(Website) What Is a Checksum (and Why Should You Care)?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)
 This website offers basic understanding of what is checksum and what does it do, so it helps me (and hopefully you too) to have a better grasp of what is file SHA256SUM.
 
+2. [(Website) Learn C Programming](https://www.w3schools.com/c/)
+If you want to learn more about C, this website is for you. It is organize the material in subchapter and there also code example to help you learn.
+
 <hr>
 © 2022 --- Airel Camilo Khairan
 <hr>
