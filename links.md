@@ -23,20 +23,20 @@ This website contains a well organised way of learning AWK commands. It has an e
 
 # WEEK 02
 
-1. [(Website) What Is a Checksum (and Why Should You Care)?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)
+1. [(Website) What Is a Checksum (and Why Should You Care)?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)<br>
 This website offers basic understanding of what is checksum and what does it do, so it helps me (and hopefully you too) to have a better grasp of what is file SHA256SUM.
 
-2. [(Website) Learn C Programming](https://www.w3schools.com/c/)
+2. [(Website) Learn C Programming](https://www.w3schools.com/c/)<br>
 If you want to learn more about C, this website is for you. It is organize the material in subchapter and there also code example to help you learn.
 
 <hr>
 
 # WEEK 03
 
-1. [(Video) Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
+1. [(Video) Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 This video made by Fireship explains the Filesystem Hierarchy Standard of Linux. It also, a fast way to learn about the purpose of most common Linux directories, like /bin, /boot, and usr/bin.
 
-2. [(Article) Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)
+2. [(Article) Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
 This article by IBM explains what is FUSE really about. It also describe step by step in detail how to set up my own custom filesystem.
 
 <hr>
