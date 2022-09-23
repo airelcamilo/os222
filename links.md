@@ -36,7 +36,7 @@ If you want to learn more about C, this website is for you. It is organize the m
 1. [(Video) Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 This video made by Fireship explains the Filesystem Hierarchy Standard of Linux. It also, a fast way to learn about the purpose of most common Linux directories, like /bin, /boot, and usr/bin.
 
-2. [(Article) Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
+2. [(Website) Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
 This article by IBM explains what is FUSE really about. It also describe step by step in detail how to set up my own custom filesystem.
 
 <hr>
