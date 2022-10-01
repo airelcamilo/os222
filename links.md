@@ -40,5 +40,15 @@ This video made by Fireship explains the Filesystem Hierarchy Standard of Linux.
 This article by IBM explains what is FUSE really about. It also describe step by step in detail how to set up my own custom filesystem.
 
 <hr>
+
+# WEEK 04
+
+1. [(Video) you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
+If you still confused about pointer and what it does, you can watch this video. The video is really informative and explains pointer in a simple way.
+
+2. [(Website) Difference between Virtual and Physical Address](https://www.javatpoint.com/virtual-vs-physical-address)<br>
+This article explains the difference between virtual and physical address. It helps me a lot to differentiate between the two.
+
+<hr>
 © 2022 --- Airel Camilo Khairan
 <hr>
