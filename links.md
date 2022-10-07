@@ -50,5 +50,15 @@ If you still confused about pointer and what it does, you can watch this video. 
 This article explains the difference between virtual and physical address. It helps me a lot to differentiate between the two.
 
 <hr>
+
+# WEEK 05
+
+1. [(Website) Virtual Memory in OS: What is, Demand Paging, Advantages](https://www.guru99.com/virtual-memory-in-operating-system.html)<br>
+This website is a great start to learn more about virtual memory. It helps me process about what is demand paging exactly and how does it work.
+
+2. [(PDF) 05 VM - Virtual Memory](https://rms46.vlsm.org/2/200.pdf) <br>
+Because in this week we learn about memory management, what better way to do it than answering previous midterm questions provided kindly by Mr. RMS. So, this is the link to the previous midterm questions or you can go to the website instead.
+
+<hr>
 © 2022 --- Airel Camilo Khairan
 <hr>
