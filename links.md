@@ -60,5 +60,15 @@ This website is a great start to learn more about virtual memory. It helps me pr
 Because in this week we learn about memory management, what better way to do it than answering previous midterm questions provided kindly by Mr. RMS. So, this is the link to the previous midterm questions or you can go to the website instead.
 
 <hr>
+
+# WEEK 06
+
+1. [(Video) fork() in linux](https://www.youtube.com/watch?v=CaWgJIbwb-4)<br>
+This video is a good start if you still doesn’t undestand about fork(). The presenter explains the material very well.
+
+2. [(Website) Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+This is a very well research article about threads and concurrency in operating system. So it can be a great supplement for this week material.
+
+<hr>
 © 2022 --- Airel Camilo Khairan
 <hr>
