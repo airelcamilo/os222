@@ -55,4 +55,11 @@ ZCZC W06 20 L04 Github Pages related
 ZCZC W06 107 L05 QUIZ
 ZCZC W06 165 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 110 L09 Weekly Assignments
+ZCZC W07 210 L00 Offline Class
+ZCZC W07 30 L01 SCELE/Discord related
+ZCZC W07 15 L03 Github related
+ZCZC W07 20 L04 Github Pages related
+ZCZC W07 127 L05 QUIZ
+ZCZC W07 165 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 125 L09 Weekly Assignments
 

@@ -70,5 +70,15 @@ This video is a good start if you still doesn’t undestand about fork(). The pr
 This is a very well research article about threads and concurrency in operating system. So it can be a great supplement for this week material.
 
 <hr>
+
+# WEEK 07
+
+1. [(Website) The Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)<br>
+This website explains critical section in depth. Critical Section is part of a program which tries to access shared resources. That resource may be any resource in a computer like a data structure, memory location, CPU or any IO device.
+
+2. [(Website) Deadlock: What it is, How to Detect, Handle and Prevent?](https://www.baeldung.com/cs/os-deadlock)<br>
+If you still not quite understand deadlock, this article is a good way to understand deadlock better. Shortly, deadlock is a situation when the processes are blocked due to resources being held by other processes and they wait for resources from a different process.
+
+<hr>
 © 2022 --- Airel Camilo Khairan
 <hr>
