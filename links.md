@@ -80,5 +80,15 @@ This website explains critical section in depth. Critical Section is part of a p
 If you still not quite understand deadlock, this article is a good way to understand deadlock better. Shortly, deadlock is a situation when the processes are blocked due to resources being held by other processes and they wait for resources from a different process.
 
 <hr>
+
+# WEEK 08
+
+1. [(Website) Operating System Scheduling algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)<br>
+This website contains detail information about scheduling algorithms. It’s perfect for students that doesn’t quite understand the explanation given in this week lectures.
+
+2. [(Videos) How to build Linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+This is a Youtube playlist that explains in great detail how to build Linux from Scratch. This playlist helps me understand all I need to do to complete this week assignment.
+
+<hr>
 © 2022 --- Airel Camilo Khairan
 <hr>
